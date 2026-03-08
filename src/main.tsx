@@ -4,6 +4,8 @@ import { PrimeReactProvider } from 'primereact/api'
 import 'primereact/resources/themes/lara-light-indigo/theme.css'
 import 'primereact/resources/primereact.min.css'
 import 'primeicons/primeicons.css'
+import 'quill/dist/quill.core.css'
+import 'quill/dist/quill.snow.css'
 import './index.css'
 import App from './App.tsx'
 
